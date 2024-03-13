@@ -1,0 +1,82 @@
+/* Write your CSS here */
+
+.page-bg {
+  padding: 30px;
+  font-family: 'Roboto';
+}
+
+.name-card-bg {
+  padding: 15px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  border-radius: 13px;
+}
+
+.word-span-style {
+  color: #0b69ff;
+  font-weight: 700;
+}
+
+.transaction-card-container {
+  margin-top: 20px;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.transaction-history-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-transaction {
+  padding: 20px;
+  width: 30%;
+}
+
+.history-container {
+  padding: 20px;
+  width: 60%;
+}
+
+.label-style {
+  font-size: 13px;
+}
+
+.input-style {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.add-button-style {
+  background-color: #0b69ff;
+  border-style: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.column-container {
+  display: flex;
+  font-weight: 700;
+}
+
+.title-para {
+  width: 30%;
+  margin: 0px;
+}
+
+.amount-para {
+  width: 30%;
+  margin: 0px;
+}
+
+.type-para {
+  width: 30%;
+  margin: 0px;
+}
+
+.history-ul-container {
+  padding: 0px;
+}

@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.main-bg {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 20%;
+}
+
+.icon-sizer {
+  height: 50px;
+  margin-right: 25px;
+}
+
+.amount-type-style {
+  margin: 0px;
+}
+
+.amount-style {
+  margin: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.balance {
+  background-color: #ecfccb;
+}
+
+.income {
+  background-color: #cffafe;
+}
+
+.expenses {
+  background-color: #ede9fe;
+}

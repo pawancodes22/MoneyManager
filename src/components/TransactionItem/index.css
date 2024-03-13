@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.font-weight-decreaser {
+  font-weight: normal;
+}
+
+button {
+  background-color: transparent;
+  border-style: none;
+}
+
+img {
+  height: 20px;
+}
